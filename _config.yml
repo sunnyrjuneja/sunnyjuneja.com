@@ -1,10 +1,10 @@
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: whatasunnyday
+email: me@sunnyjuneja.com
+author: Sunny Juneja
+description: "Ideas and thoughts by Sunny Juneja."
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://www.sunnyjuneja.com"
 google_analytics:
 animated: false
 show_related_posts: false
