@@ -22,4 +22,4 @@ Look at his code on Github: <a href='https://github.com/whatasunnyday'>whatasunn
 
 Check out his answers on Stack Overflow: <a href='http://stackoverflow.com/users/807103/sunny-juneja'>Sunny Juneja (Rep: 3135)</a>.
 
-Or shoot him an email at hi at sunnyjuneja dot com.
+Or shoot him an email at <a href='mailto:hi@sunnyjuneja.com'>hi@sunnyjuneja.com</a>.
