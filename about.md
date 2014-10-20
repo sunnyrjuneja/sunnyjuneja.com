@@ -1,19 +1,17 @@
 ---
 layout: page
-title: About Pixyll
+title: About Sunny
 permalink: /about/
 ---
+<img class='headshot' src='/img/headshot.jpg' alt="Sunny Juneja's headshot">
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+**Sunny is currently looking for new opportunities in growth related roles.**
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Sunny Juneja graduated from UC Berkeley in 2012 with a degree in Applied Mathematics.
+While in college, he co-founded a successful real estate finance business that helped hundreds
+of people keep their homes. After college, he worked as a software engineer at 
+[FirstRain](http://firstrain.com/) where he wrote software used by Fortune 500s like
+Cienna, Cisco, Flextronics, and General Electric.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+When he's not working, you can find him volunteering for organizations like Code for America,
+Open Oakland or Youth and Government.
