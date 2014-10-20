@@ -15,3 +15,11 @@ Cienna, Cisco, Flextronics, and General Electric.
 
 When he's not working, you can find him volunteering for organizations like Code for America,
 Open Oakland or Youth and Government.
+
+Follow him on Twitter: <a href='https://twitter.com/@SunnyRJuneja'>@SunnyRJuneja</a>.
+
+Look at his code on Github: <a href='https://github.com/whatasunnyday'>whatasunnyday</a>.
+
+Check out his answers on Stack Overflow: <a href='http://stackoverflow.com/users/807103/sunny-juneja'>Sunny Juneja (Rep: 3135)</a>.
+
+Or shoot him an email at hi at sunnyjuneja dot com.
