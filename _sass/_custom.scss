@@ -5,3 +5,34 @@
   max-width: 100%;
   margin: 0 auto;
 }
+
+// override main.scss
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  margin: 0 0 0.5em;
+}
+
+.p-responsive {
+  padding: .9375rem;
+}
+
+@media screen and (min-width: 48em) and (max-width: 64em) {
+  .p-responsive {
+    padding: 1.875rem;
+  }
+}
+@media screen and (min-width: 64em) {
+  .p-responsive {
+    padding: 2.5rem;
+  }
+}

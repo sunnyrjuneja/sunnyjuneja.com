@@ -3,9 +3,9 @@ layout: page
 title: About Sunny
 permalink: /about/
 ---
-<img class='headshot' src='/img/headshot.jpg' alt="Sunny Juneja's headshot">
+**Sunny is looking for new opportunities in growth related roles.**
 
-**Sunny is currently looking for new opportunities in growth related roles.**
+<img class='headshot' src='/img/headshot.jpg' alt="Sunny Juneja's headshot">
 
 Sunny Juneja graduated from UC Berkeley in 2012 with a degree in Applied Mathematics.
 While in college, he co-founded a successful real estate finance business that helped hundreds
